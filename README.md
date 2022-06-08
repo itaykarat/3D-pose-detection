@@ -24,3 +24,10 @@ The solution in the code is simple.
 Attached :
 1. Screenshot of the 3D model given
 2. projected model as an image.
+3. Apply mediaPipe function to detect human parts.
+
+
+
+<img width="517" alt="image (4)" src="https://user-images.githubusercontent.com/60778119/172611815-76c00fa5-fd01-46df-ad51-5e56f3dfc0b1.png">
+
+<img width="482" alt="image (5)" src="https://user-images.githubusercontent.com/60778119/172611829-787ee05e-7315-4aef-82c4-68e0ca8816cf.png">
