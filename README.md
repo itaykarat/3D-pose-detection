@@ -42,6 +42,7 @@ Attached :
 
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/60778119/172612292-2238a485-9eef-4f88-ad3f-98b08b9715e5.png">
 
+Final result --> key points on the 3D model:
 <img width="612" alt="image" src="https://user-images.githubusercontent.com/60778119/172612362-e672c41c-4fbd-448e-991f-9ad85257ac49.png">
 
 
