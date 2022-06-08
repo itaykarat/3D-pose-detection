@@ -1,4 +1,8 @@
 # 3D-pose-detection
+Problem: I couldn't find any good API for finding Body key points on a human body 3D model.
+
+**Below- implementation of my solution to that problem.
+
 Auto skeleton detection of 3D model of  person
 
 
