@@ -14,7 +14,7 @@ OUTPUT: return an image wich will represent the projection of that model on a pl
 
 
 
-Gemeral info;
+General info;
 3D model will be a point cloud {each point in 3D}
 
 
