@@ -9,7 +9,7 @@ Auto skeleton detection of 3D model of  person
 
 INPUT: Given a 3d model of a human body. {.obj file}
 
-OUTPUT: return an image wich will represent the projection of that model on a plane.
+OUTPUT: set of 3D points of key points on the model body.
 
 
 
